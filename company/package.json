@@ -1,0 +1,13 @@
+{
+  "name": "eyp-test",
+  "version": "0.0.1",
+  "description": "Sample site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
